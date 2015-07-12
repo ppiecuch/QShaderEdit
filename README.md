@@ -1,3 +1,7 @@
+
+
+=== ORIGINAL README ===
+
 INTRODUCTION
 
 QShaderEdit is a simple multiplatform shader editor inspired by Apple's OpenGL Shader 
